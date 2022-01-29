@@ -1,0 +1,54 @@
+    body {
+      background-color: beige;
+    }
+    th {
+      font-family: "Calbri";
+      padding-right: 5px;
+      padding-left: 5px;
+      font-size: 20px;
+    }
+    h1 {
+      color: brown;
+      font-family: "Calbri";
+      font-size: 50px;
+      margin: 0.5em 0 0.4em 0;
+    }
+
+    table {
+      margin: auto;
+    }
+    hr {
+      border-style: dashed none none none;
+      border-width: 6px;
+      width: 50%;
+      margin-top: 2em;
+    }
+    td {
+      font-family: "Calibri";
+      font-size: 17px;
+      text-align: center;
+    }
+
+    #newYear {
+      color: white;
+      background-color: green;
+      border-radius: 10%;
+    }
+    #valentines {
+      color: white;
+      background-color: red;
+      border-radius: 10%;
+    }
+    #christmas {
+      color: white;
+      background-color: brown;
+      border-radius: 10%;
+    }
+    #thanksgiving {
+      color: white;
+      background-color: tomato;
+      border-radius: 10%;
+    }
+    h1:hover {
+      background-color: salmon;
+    }
